@@ -1,0 +1,8 @@
+{
+  "name": "Dating site",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "711949c2"
+}
